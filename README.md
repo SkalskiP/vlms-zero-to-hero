@@ -15,70 +15,40 @@ fundamentals of NLP and Computer Vision to the cutting edge of Vision-Language M
 
 ## natural language processing (NLP) fundamentals
 
-- **Word2Vec: Efficient Estimation of Word Representations in Vector Space** (2013) - 
-Established continuous vector representations of words, setting the stage for dense 
-embeddings as a foundation for richer models.
-- **Sequence to Sequence Learning with Neural Networks** (2014) - Introduced the 
-seq2seq framework, fundamental for tasks like machine translation and text 
-summarization.
-- **Attention Is All You Need** (2017) - Introduced the Transformer architecture, which 
-forms the backbone of modern NLP and VLMs.
-- **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** 
-(2018) - Showed the power of pre-training language models on massive text data, leading 
-to significant performance improvements.
-- **Improving Language Understanding by Generative Pre-Training** (2018) - Introduced 
-the concept of generative pre-training, leading to models like GPT.
+- [Word2Vec: Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781) (2013)
+- [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215) (2014)
+- [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) (2017)
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805) (2018)
+- [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) (2018)
 
 ## computer vision (CV) fundamentals
 
-- **AlexNet: ImageNet Classification with Deep Convolutional Neural Networks** (2012) - 
-Revived neural networks for computer vision, setting a new standard for CV tasks.
-- **VGG: Very Deep Convolutional Networks for Large-Scale Image Recognition** (2014) - 
-Showed the impact of depth in CNN architectures and provided a standard architecture 
-widely used in subsequent research.
-- **Deep Residual Learning for Image Recognition** (2015) - Introduced ResNet, enabling 
-the training of very deep networks by addressing the vanishing gradient problem.
-- **You Only Look Once: Unified, Real-Time Object Detection** (2016) - Introduced YOLO, 
-a state-of-the-art object detection algorithm.
+- [AlexNet: ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) (2012)
+- [VGG: Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556) (2014)
+- [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385) (2015)
+- [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640) (2016)
 
 ## bridging vision and language
 
-- **Show, Attend and Tell: Neural Image Caption Generation with Visual Attention** 
-(2015) - Introduced visual attention mechanisms, a concept that later became crucial 
-for ViTs and transformer-based VLMs.
-- **ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for 
-Vision-and-Language Tasks** (2019)- An early approach to combining visual and 
-linguistic information in a single model.
-- **A Picture is Worth 16x16 Words: Transformers for Image Recognition at Scale** 
-(2020) - Introduced Vision Transformers (ViTs), paving the way for transformer-based 
-VLMs.
-- **CLIP: Learning Transferable Visual Models from Natural Language Supervision**
-(2021) Bridged the gap between vision and language using contrastive learning on paired 
-data.
+- [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/pdf/1502.03044) (2015)
+- [ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://arxiv.org/pdf/1908.02265) (2019)
+- [A Picture is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929) (2020)
+- [CLIP: Learning Transferable Visual Models from Natural Language Supervision](https://arxiv.org/pdf/2103.00020) (2021)
 
 ## advancing multimodal models
 
-- **Scaling Laws for Neural Language Models** (2020) - Demonstrated how scaling model 
-size impacts performance, a critical insight for VLMs.
+- [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361) (2020)
 
 ## modern techniques
 
-- **LoRA: Low-Rank Adaptation of Large Language Models** (2021) - Introduced a 
-parameter-efficient fine-tuning method for large language models.
-- **QLoRA: Efficient Fine-tuning of Quantized LLMs** (2023) - An update to LoRA for 
-low-resource fine-tuning of large models.
+- [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685) (2021)
+- [QLoRA: Efficient Fine-tuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314) (2023)
 
 ## recent innovations
 
-- **Flamingo: a Visual Language Model for Few-Shot Learning** (2022)- Showed how to 
-integrate vision and language models in a flexible few-shot manner, setting a precedent 
-for extensible VLM frameworks.
-- **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and 
-Large Language Models** (2023) - Showed how to leverage frozen image encoders and large 
-language models for efficient and effective VLM training.
-- **PaliGemma: A versatile 3B VLM for transfer** (2024) - A recent example of a 
-powerful VLM capable of various tasks like image captioning, question answering, and 
-visual reasoning.
+- [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/pdf/2204.14198) (2022)
+- [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597) (2023)
+- [PaliGemma: A versatile 3B VLM for transfer](https://arxiv.org/pdf/2407.07726) (2024)
 
 ## contribute and suggest more papers
 
