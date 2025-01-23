@@ -11,11 +11,17 @@
 Welcome to VLMs Zero to Hero! This series will take you on a journey from the 
 fundamentals of NLP and Computer Vision to the cutting edge of Vision-Language Models.
 
+# tutorials
+
+|                                                                                                                              **notebook**                                                                                                                              |                                                                                                                             **open in colab**                                                                                                                             | **video** |                                              **paper**                                               |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------:|:----------------------------------------------------------------------------------------------------:|
+| [Word2Veq: Distributed Representations of Words and Phrases and their Compositionality](https://github.com/SkalskiP/vlms-zero-to-hero/blob/master/01_natural_language_processing_fundamentals/01_01_word2vec_with_sub_sampling_and_negative_sampling_in_pytorch.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SkalskiP/vlms-zero-to-hero/blob/master/01_natural_language_processing_fundamentals/01_01_word2vec_with_sub_sampling_and_negative_sampling_in_pytorch.ipynb) |           | [![arXiv](https://img.shields.io/badge/arXiv-1310.4546-b31b1b.svg)](https://arxiv.org/abs/1310.4546) |
+
 # roadmap
 
 ## natural language processing (NLP) fundamentals
 
-- Word2Veq: [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781) (2013) and [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546) (2013)
+- Word2Veq: [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781) (2013) and [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546) (2013) 
 - Seq2Seq: [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215) (2014)
 - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) (2017)
 - BERT: [Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805) (2018)
@@ -45,6 +51,10 @@ fundamentals of NLP and Computer Vision to the cutting edge of Vision-Language M
 - LLaVA: [Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485) (2023)
 - BLIP-2: [Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597) (2023)
 - PaliGemma: [A versatile 3B VLM for transfer](https://arxiv.org/pdf/2407.07726) (2024)
+
+## extra
+
+- BLEU: [a Method for Automatic Evaluation of Machine Translation](https://aclanthology.org/P02-1040.pdf) (2002)
 
 # contribute and suggest more papers
 
